@@ -1,0 +1,1 @@
+This repository contains sample outputs from an automated neurovascular segmentation and surgical path planning pipeline developed for endovascular intervention planning. The results correspond to a single representative MRA case.
